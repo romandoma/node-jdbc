@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "async": "~2.0.1",
-    "java": "^0.7.2",
     "lodash": "~4.14",
     "node-uuid": "~1.4",
     "winston": "^2.2.0",
