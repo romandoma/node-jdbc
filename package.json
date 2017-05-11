@@ -17,12 +17,6 @@
     "nodeunit": "~0.9",
     "q": "^1.4.1"
   },
-  "scripts": {
-    "pretest": "bash bin/startdbs",
-    "test": "nodeunit test",
-    "posttest": "bash bin/stopdbs",
-    "lint": "jshint lib/**.js test/**.js"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/CraZySacX/node-jdbc.git"
