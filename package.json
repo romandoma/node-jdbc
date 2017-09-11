@@ -1,20 +1,21 @@
 {
   "name": "jdbc",
-  "version": "0.3.2-pre.0",
+  "version": "0.5.2-pre.0",
   "description": "Node Module JDBC wrapper",
   "main": "index.js",
   "dependencies": {
-    "async": "~2.0.1",
-    "lodash": "~4.14",
-    "node-uuid": "~1.4",
-    "winston": "^2.2.0",
-	"bignumber.js": "^3.0.0"
+    "async": "~2.4.1",
+    "java": "^0.8.0",
+    "lodash": "~4.17",
+    "uuid": "^3.0.1",
+    "winston": "^2.3.1",
+    "bignumber.js": "^3.0.0"
   },
   "devDependencies": {
     "jshint": "~2.9",
-    "lolex": "^1.5.1",
-    "nodeunit": "~0.9",
-    "q": "^1.4.1"
+    "lolex": "^1.6.0",
+    "nodeunit": "~0.11",
+    "q": "^1.5.0"
   },
   "repository": {
     "type": "git",
